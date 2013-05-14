@@ -4,10 +4,6 @@ These are the configurations of all of my Vagrant boxes. It is also where I buil
 
 ## Box URLs
 
-- Base: http://s3.amazonaws.com/davejlong/vagrant/base.box
-- Railo: http://s3.amazonaws.com/davejlong/vagrant/railo.box
-- ColdFusion: http://s3.amazonaws.com/davejlong/vagrant/coldfusion.box
-
-## TODO
-
-- Update Vagrantfile's with URL locations of the boxes so anyone can build them.
+- Base: https://s3.amazonaws.com/davejlong/vagrant/base.box
+- Railo: https://s3.amazonaws.com/davejlong/vagrant/railo.box
+- ColdFusion: https://s3.amazonaws.com/davejlong/vagrant/coldfusion.box

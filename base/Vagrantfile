@@ -3,4 +3,5 @@
 
 Vagrant.configure("2") do |config|
   config.vm.box = "base"
+  config.vm.box_url = "https://s3.amazonaws.com/davejlong/vagrant/base.box"
 end
