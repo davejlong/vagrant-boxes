@@ -1,0 +1,16 @@
+# Base Box
+
+## PACKAGING
+After building out the box to what you want, package with:
+
+    vagrant package --output ./base.box
+
+## CHANGELOG
+
+### 2013-05-13
+- Updated system
+- Updated RubyGems
+- Updated installed Gems
+- Installed Node.js and NPM from package manager
+- Updated Dotfiles
+- Moved Vagrant dotfiles into a specific branch

@@ -1,0 +1,8 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+# This is the vagrant file that is included automatically with the box
+# Changes made here will be reflected in all Railo boxes after packaging
+Vagrant.configure("2") do |config|
+  config.vm.network :forwarded_port, guest: 8080, host: 8080
+end

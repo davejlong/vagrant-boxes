@@ -1,0 +1,15 @@
+# Railo Box
+
+## PACKAGING
+After building out the box to what you want, package with:
+
+    vagrant package --output ./railo.box --vagrantfile vagrantfile.txt
+
+## CHANGELOG
+
+### 2013-05-14
+- System updates
+- Updated RubyGems
+- Updated installed Gems
+- Convert RVM to multi-user install
+- Updated Dotfiles with vagrant specific branch
