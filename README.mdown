@@ -1,0 +1,9 @@
+# Vagrant Box Configurations
+
+These are the configurations of all of my Vagrant boxes. It is also where I build my boxes. See README's in each folder for box specific configuration.
+
+## Box URLs
+
+- Base: http://s3.amazonaws.com/davejlong/vagrant/base.box
+- Railo: http://s3.amazonaws.com/davejlong/vagrant/railo.box
+- ColdFusion: http://s3.amazonaws.com/davejlong/vagrant/coldfusion.box
