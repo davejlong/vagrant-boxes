@@ -1,0 +1,13 @@
+# MariaDB Box
+
+## PACKAGING
+After building out the box to what you want, package with:
+
+    vagrant package --output ./maria.box --vagrantfile vagrantfile.txt
+
+## CHANGELOG
+
+### 2013-10-02
+
+* System updates
+* Add Vagrant user to Maria
